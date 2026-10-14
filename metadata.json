@@ -1,0 +1,6 @@
+{
+  "name": "BK Sahabat",
+  "description": "Webtoon Komik Edukatif BK SMP: Pacaran Sehat & Batasan Diri, Anti-Judol & Rokok/Vape, Anti-Bolos, Etika Medsos, Kuis HOTS & Dashboard Guru Bu Selvi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
